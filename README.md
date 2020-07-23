@@ -10,15 +10,15 @@ NOTE: The GUI, The Delaunay Triangulation, The Affine Transform have all been cr
 
 ## The Working of the Software
 
-![The initial view of the GUI](initialGUI.jpg)
+![The initial view of the GUI](initialGUI.JPG)
 
-![Feature Points Marked](fp2.jpg)
+![Feature Points Marked](fp2.JPG)
 
-![Table for Feature Points present on GUI](tb2.jpg)
+![Table for Feature Points present on GUI](tb2.JPG)
 
-![Corresponding Delaunay Triangles mapped for given feature points](dllll.jpg)
+![Corresponding Delaunay Triangles mapped for given feature points](dllll.JPG)
 
-![After clicking the morph button, the status of morphing can be seen here](stb.jpg)
+![After clicking the morph button, the status of morphing can be seen here](stb.JPG)
 
 ![Intermediate images with background](withb.png)
 
