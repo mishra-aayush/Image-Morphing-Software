@@ -30,3 +30,5 @@ Intermediate images with background
 
 ![Intermediate images without background](outb.png)
 Intermediate images without background
+
+## Contributor - Abhay Aravinda [Email](17ucs002@lnmiit.ac.in)
